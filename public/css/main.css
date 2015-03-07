@@ -1,0 +1,28 @@
+/* XPATH */
+
+
+
+body {
+    font-family: 'Roboto', serif;
+}
+
+div {
+    font-size: 48pt;
+}
+
+span {
+    font-size: 36pt;
+}
+
+a {
+    color: cyan;
+}
+
+code {
+    color: #ffa300;
+}
+
+span {
+    color: crimson;
+    text-underline: dashed-heavy;
+}
