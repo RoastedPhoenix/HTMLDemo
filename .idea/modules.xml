@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../ERB/.idea/ERB.iml" filepath="$PROJECT_DIR$/../ERB/.idea/ERB.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/HTMLdemo.iml" filepath="$PROJECT_DIR$/.idea/HTMLdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Jawascript/.idea/Jawascript.iml" filepath="$PROJECT_DIR$/../Jawascript/.idea/Jawascript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LoremIpsum/.idea/LoremIpsum.iml" filepath="$PROJECT_DIR$/../LoremIpsum/.idea/LoremIpsum.iml" />
       <module fileurl="file://$PROJECT_DIR$/../RubymineProjects/.idea/RubymineProjects.iml" filepath="$PROJECT_DIR$/../RubymineProjects/.idea/RubymineProjects.iml" />
     </modules>
   </component>
