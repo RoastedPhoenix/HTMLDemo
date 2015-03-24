@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../LoremIpsum/Lorem_Ipsum_Roman_Greek" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../RubymineProjects" vcs="Git" />
   </component>
 </project>
