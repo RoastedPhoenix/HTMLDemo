@@ -3,19 +3,23 @@
 
 
 body {
-    font-family: 'Roboto', serif;
+    font-family: fantasy;
+}
+table{
+    border-spacing: 0px;
 }
 
-div {
-    font-size: 48pt;
+td {
+    border: 2px solid crimson;
 }
+h1 {
+    text-align: center;
+    font-size: 24pt;
+    color: crimson;
 
-span {
-    font-size: 36pt;
 }
-
 a {
-    color: cyan;
+    color: darkgoldenrod;
 }
 
 code {
@@ -23,6 +27,7 @@ code {
 }
 
 span {
-    color: crimson;
+    color: #00dc0e;
     text-underline: dashed-heavy;
+    font-size: 36pt;
 }

@@ -1,0 +1,15 @@
+code:hover{
+    color: darkgoldenrod;
+    text-transform: full-width;
+    font-size-adjust: 1;
+
+}
+
+span:target{
+    color: crimson
+}
+
+input:focus{
+    border-width: medium;
+    border-color: aquamarine;
+}

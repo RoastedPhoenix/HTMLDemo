@@ -7,7 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/../Jawascript/.idea/Jawascript.iml" filepath="$PROJECT_DIR$/../Jawascript/.idea/Jawascript.iml" />
       <module fileurl="file://$PROJECT_DIR$/../LoremIpsum/.idea/LoremIpsum.iml" filepath="$PROJECT_DIR$/../LoremIpsum/.idea/LoremIpsum.iml" />
       <module fileurl="file://$PROJECT_DIR$/../LoremIpsum/Lorem_Ipsum_Roman_Greek/.idea/Lorem_Ipsum_Roman_Greek.iml" filepath="$PROJECT_DIR$/../LoremIpsum/Lorem_Ipsum_Roman_Greek/.idea/Lorem_Ipsum_Roman_Greek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Message Board/.idea/Message Board.iml" filepath="$PROJECT_DIR$/../Message Board/.idea/Message Board.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Recipe/.idea/Recipe.iml" filepath="$PROJECT_DIR$/../Recipe/.idea/Recipe.iml" />
       <module fileurl="file://$PROJECT_DIR$/../RubymineProjects/.idea/RubymineProjects.iml" filepath="$PROJECT_DIR$/../RubymineProjects/.idea/RubymineProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WebCalculator/.idea/WebCalculator.iml" filepath="$PROJECT_DIR$/../WebCalculator/.idea/WebCalculator.iml" />
     </modules>
   </component>
 </project>
